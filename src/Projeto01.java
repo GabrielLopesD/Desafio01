@@ -1,9 +1,9 @@
 
 public class Projeto01 {
-/*Era uma vez a história de quatro homens: 
- * João, José, Jacinto e Joel. 
- * Os quatro eram construtores de barcos e em quatro dias conseguiam construir quatro embarcações. 
- * Quanto tempo demoraria um dos quatro homens para construir um único barco?*/
+/*Era uma vez a histÃ³ria de quatro homens: 
+ * JoÃ£o, JosÃ©, Jacinto e Joel. 
+ * Os quatro eram construtores de barcos e em quatro dias conseguiam construir quatro embarcaÃ§Ãµes. 
+ * Quanto tempo demoraria um dos quatro homens para construir um Ãºnico barco?*/
 	
 	public static int pessoas = 4, dias = 4, resposta;
 
