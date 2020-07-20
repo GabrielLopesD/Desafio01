@@ -7,10 +7,6 @@ public class Projeto01 {
 	public static int pessoas = 4, dias = 4, resposta;
 
 	
-	public static void main(String[] args) {
-		descobrirResposta();
-	}
-	
 	public static void descobrirResposta() {
 		
 		resposta = pessoas/dias;
