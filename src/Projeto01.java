@@ -16,6 +16,6 @@ public class Projeto01 {
 		
 		resposta = pessoas/dias;
 		
-		System.out.println(resposta);
+		System.out.println("esse é o numero de dias que um deles irá demorar" + resposta);
 	}
 }
